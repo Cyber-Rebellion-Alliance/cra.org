@@ -1,4 +1,4 @@
-# Organization Name
+# CRA
 
 ![Banner](https://raw.githubusercontent.com/Cyber-Rebellion-Alliance/cra.org/refs/heads/main/DALL%C2%B7E%202024-12-12%2011.32.43%20-%20A%20dark%2C%20cyberpunk-themed%20banner%20for%20a%20hacking%20organization.%20The%20banner%20should%20feature%20a%20glowing%20green%20matrix-style%20code%20background%20with%20elements%20like%20.webp)
 
